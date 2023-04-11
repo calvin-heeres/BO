@@ -4,11 +4,11 @@
 
 Table of Content
 
-## [Website](<Homepage url> "Live View")
+## [Website ...Empty](<Homepage url> "Live View")
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Screenshot ...Empty](/screenshots/1.png "Home Page")
 
 ## Built With
 
